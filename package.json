@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/abejotav1/M05C01/issues"
   },
-  "homepage": "https://github.com/abejotav1/M05C01#readme"
+  "homepage": "https://github.com/abejotav1/M05C01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
