@@ -2,7 +2,7 @@
   "name": "M05C01",
   "version": "1.0.0",
   "description": "M05C01 Ejercitación Patrones de diseño MVC",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

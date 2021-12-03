@@ -7,6 +7,15 @@ npm init -y
 
 para inicializar el programa package.json
 -------
+Se actualiza package.json
+
+Original
+  "main": "index.js",
+
+Se actualiza a
+ "main": "app.js",
+
+-------
 desde terminar instalar express
 npm i express
 
